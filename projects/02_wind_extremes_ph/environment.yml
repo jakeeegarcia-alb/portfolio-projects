@@ -1,0 +1,19 @@
+name: wind-extremes
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - dask
+  - scipy
+  - matplotlib
+  - cartopy
+  - geopandas
+  - shapely
+  - jupyterlab
+  - pip
+  - pip:
+      - cdsapi

@@ -1,0 +1,8 @@
+# Ignore data
+projects/02_wind_extremes_ph/data/
+*.nc
+*.grib
+*.zip
+*.pyc
+__pycache__/
+
